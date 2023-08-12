@@ -1,0 +1,69 @@
+@media (max-width:600px) {
+    #hero {
+        height: 66vh;
+        width: 75vw;
+    }
+
+    #chhotiheadings h5 {
+        font-size: 2.5vw;
+    }
+
+    #herofooter {
+        padding: 0.7vw;
+    }
+
+    #herofooter a {
+        font-size: 6px;
+    }
+
+    #herofooter #iconset {
+
+        gap: 2px;
+    }
+
+    #herofooter .circle {
+        width: 15px;
+        height: 15px;
+    }
+
+    #second {}
+
+    #about {
+        display: flex;
+
+        padding: 10vw 51vw;
+        padding-left: 36vw;
+        width: 100%;
+        flex-direction: column;
+    }
+
+        #textabout {
+            width: 71vw;
+        }
+        #textabout p{
+            font-size: 10px;
+        }
+        #subscribe h3 {
+            
+            font-size: 10px;
+           
+        }
+        #footer {
+           
+            justify-content: center;
+            padding: 40px 30px;
+            flex-direction: column;
+            align-items: baseline;
+        
+            
+        }
+        #footer a {
+            
+            font-size: 10px;
+            
+        }
+        #footerright {
+            margin-top: 14px;
+            gap: 18px;
+        }
+}
