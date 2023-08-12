@@ -1,7 +1,7 @@
 @media (max-width:600px) {
     #hero {
         height: 66vh;
-        width: 75vw;
+        width: 100vw;
     }
 
     #chhotiheadings h5 {
